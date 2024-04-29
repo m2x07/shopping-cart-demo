@@ -1,3 +1,5 @@
+https://github.com/m2x07/shopping-cart-demo/assets/98175549/5701fab3-7ec7-43c4-874d-1335877270a9
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
